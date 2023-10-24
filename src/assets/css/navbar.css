@@ -1,0 +1,29 @@
+.navbar-nav .nav-link {
+  font-size: 18px;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: green;
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.navbar-brand:hover,
+.navbar-nav .nav-link:hover {
+  color: rgb(28, 170, 63);
+  text-decoration: none;
+}
+
+.nav-link.active {
+  color: rgb(28, 170, 63);
+  text-decoration: none;
+}
+
+.ex {
+  font-size: 2rem;
+}
+
+NavLink {
+  color: rgb(28, 170, 63);
+}

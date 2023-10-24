@@ -1,0 +1,128 @@
+.box {
+  border: 1px solid black;
+}
+
+.boxW {
+  border: 1px solid white;
+}
+
+.circle {
+  border-radius: 5px;
+  border: 1px solid white;
+}
+
+.header-- {
+  width: 70%;
+}
+
+.bgGrn {
+  background-color: #083b15;
+}
+
+.txt--White--wFont {
+  color: white;
+  font-size: 1.5rem;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.txt--White--wFont-h {
+  color: white;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.color--white {
+  background-color: white;
+}
+
+.colorGrn {
+  background-color: rgb(28, 77, 40);
+  color: white;
+  width: 300px;
+  height: auto;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 15px;
+  text-decoration-style: none;
+}
+
+.colorGrn:hover {
+  background-color: rgb(22, 54, 36);
+}
+
+.mrgn {
+  margin-top: 8%;
+}
+
+.textbox {
+  background-color: rgb(12, 70, 38);
+  border-radius: 25px;
+  border-style: inset;
+  border-color: black;
+  border-width: 2px;
+}
+
+.card-title-home {
+  margin: 0;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.colorwht {
+  background-color: rgb(61, 138, 80);
+  color: white;
+  width: 300px;
+  height: auto;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 15px;
+  border-color: black;
+  text-decoration-style: none;
+}
+
+.fontcolor {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.5rem;
+}
+
+.logow {
+  width: 100px;
+  height: 100px;
+}
+
+.logo1 {
+  width: 100px;
+  height: 100px;
+}
+
+.bg-image {
+  background-image: url(/src/assets/img/logo_1.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.fsize {
+  font-size: 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: white;
+}
+
+.fsizep {
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+}
+
+iframe {
+  max-width: 400px;
+}

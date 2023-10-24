@@ -1,0 +1,118 @@
+@media screen and (max-width: 2560px) {
+  .card-sze-2 {
+    height: 280px;
+    width: 630px;
+  }
+
+  .card-sze-1 {
+    height: 280px;
+    width: 630px;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .card-sze-2 {
+    height: 280px;
+    width: 630px;
+  }
+
+  .card-sze-1 {
+    height: 280px;
+    width: 630px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .card-sze-2 {
+    height: 400px;
+    width: 430px;
+  }
+
+  .card-sze-1 {
+    height: 400px;
+    width: 430px;
+  }
+
+  .aboutUs-text {
+    font-size: 1.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card-sze-2 {
+    height: 480px;
+    width: 300px;
+  }
+
+  .card-sze-1 {
+    height: 480px;
+    width: 300px;
+  }
+
+  .aboutUs-text {
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .card-sze-2 {
+    height: 410px;
+    width: 250px;
+  }
+
+  .card-sze-1 {
+    height: 620px;
+    width: 250px;
+  }
+
+  .aboutUs-text {
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .card-sze-2 {
+    height: 400px;
+    width: 200px;
+  }
+
+  .card-sze-1 {
+    height: 620px;
+    width: 200px;
+  }
+
+  .home-header {
+    font-size: 1.5rem;
+  }
+
+  .home-paragraph {
+    color: rgb(8, 49, 22);
+    font-size: 0.8rem;
+    font-weight: bold;
+  }
+
+  .flex-mid-grn {
+    width: 70%;
+  }
+
+  .flex-mid-text h4 {
+    font-size: 1rem;
+  }
+
+  .hr {
+    width: 30%;
+  }
+
+  .crd-text {
+    font-size: 0.9rem;
+    font-family: Arial, sans-serif;
+  }
+
+  .aboutUs-text {
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}

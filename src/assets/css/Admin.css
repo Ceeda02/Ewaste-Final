@@ -1,0 +1,20 @@
+.btn-grn {
+  background-color: rgb(8, 49, 22);
+}
+
+.btn-grn:hover {
+  background-color: rgb(19, 136, 58);
+}
+
+.btn-red {
+  background-color: rgb(109, 31, 31);
+}
+
+.btn-red:hover {
+  background-color: rgb(172, 75, 75);
+}
+
+th {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
